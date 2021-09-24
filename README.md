@@ -7,8 +7,8 @@
 <h3>### I like to code</h3><br>
 
 - 👨‍🏭 I’m currently pursuing **B.Sc Computer Science From Mumbai University** <br>
-- 🏫 I’m currently learning **Web development** <br>
-- 🙌 I’m looking to collaborate on **Web development** <br>
+- 🏫 I’m currently learning **Web development, Django framework, Python, CSS, JS** <br>
+- 🙌 I’m looking to collaborate on **Web development, Django framework** <br>
 - 🤔 I’m looking for help with **Django for Web Devlopment and python for competitive programming**<br>
 - 🥅 2021 Goals: **Contribute more  projects & learn new stacks** <br>
 
@@ -22,7 +22,7 @@
 <hr/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abc/)](https://www.linkedin.com/in/Abc/) 
-[![Twitter Badge](https://img.shields.io/badge/-@Abc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Abc)](https://twitter.com/Abc) 
+[![Twitter Badge](https://img.shields.io/badge/-@Abc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Aameer_Pathan?s=09)](https://twitter.com/Aameer_Pathan?s=09) 
 [![Facebook Badge](https://img.shields.io/badge/-Abc-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Abc)](https://www.facebook.com/Abc) 
 [![Instagram Badge](https://img.shields.io/badge/-@Abc-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Abc)](https://www.instagram.com/Abc) 
 
