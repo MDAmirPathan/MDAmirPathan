@@ -21,10 +21,7 @@
 
 <hr/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abc/)](https://www.linkedin.com/in/Abc/) 
 [![Twitter Badge](https://img.shields.io/badge/-@Aameer_Pathan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Aameer_Pathan?s=09)](https://twitter.com/Aameer_Pathan?s=09) 
-[![Facebook Badge](https://img.shields.io/badge/-Abc-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Abc)](https://www.facebook.com/Abc) 
-[![Instagram Badge](https://img.shields.io/badge/-@Abc-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Abc)](https://www.instagram.com/Abc) 
 
 
 ### 📈 Github Stats:
