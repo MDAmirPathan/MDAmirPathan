@@ -7,9 +7,9 @@
 <h3>### I like to code</h3><br>
 
 - 👨‍🏭 I’m currently pursuing **B.Sc Computer Science From Mumbai University** <br>
-- 🏫 I’m currently learning **Web development, Django framework, Python, CSS, JS** <br>
-- 🙌 I’m looking to collaborate on **Web development, Django framework** <br>
-- 🤔 I’m looking for help with **Django for Web Devlopment and python for competitive programming**<br>
+- 🏫 I’m currently learning **Web development ,backend Mostly using Django framework, Python, HTML, CSS, JS** <br>
+- 🙌 I’m looking to collaborate on **Open source, web development, Django framework** <br>
+- 🤔 I’m looking for help with **Django for Web Devlopment and python Guide for Open source Contribute and Full stack development**<br>
 - 🥅 2021 Goals: **Contribute more  projects & learn new stacks** <br>
 
 
