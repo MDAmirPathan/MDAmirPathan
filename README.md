@@ -35,7 +35,13 @@
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MdAmirPathan&layout=compact&theme=blue-green" />
 </a>
-<br>
+<br><br>
+<!-- 
+<a href="https://github.com/MDAmirPathan/github-readme-activity-graph" -->
+  <img
+    alt="Amir's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=MDAmirPathan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
+/></a>
 <br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAmirPathan)](https://git.io/streak-stats)
