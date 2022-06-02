@@ -1,5 +1,5 @@
 
-# Hi ,I Am Amir Pathan! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br> <br>
+# Hi ,I Am Amir Pathan! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="35px" height="35px"> <br> <br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=MdAmirPathan&color=blue)<br>
